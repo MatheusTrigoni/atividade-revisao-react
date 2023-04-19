@@ -2,7 +2,7 @@ export function Bilheteria() {
     return (
         <section>
             <h2>Ranking de Filmes Com Mais Bilheteria no Ano de 2003 (segundo o ChatGPT):</h2>
-            <ol className="textosInternos">
+            <ol>
                 <li>O Senhor dos Anéis: O Retorno do Rei</li>
                 <li>Piratas do Caribe: A Maldição do Pérola Negra</li>
                 <li>Procurando Nemo</li>

@@ -2,7 +2,7 @@ export function TabelaFilmes() {
     return (
         <section>
             <h2>Tabela dos Melhores Filmes (segundo o Adoro Cinema) e Suas Características:</h2>
-            <table className="textosInternos">
+            <table>
                 <thead>
                     <tr>
                         <th>Nome</th>
