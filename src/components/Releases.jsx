@@ -2,7 +2,7 @@ export function Releases() {
     return (
         <section>
             <h2>10 Melhores Filmes Lançados em 2003 (na opinião do Adoro Cinema):</h2>
-            <ul>
+            <ul className="textosInternos">
                 <li>Peixe Grande e Suas Histórias Maravilhosas</li>
                 <li>O Último Samurai</li>
                 <li>Irmão Urso</li>
